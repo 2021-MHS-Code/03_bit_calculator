@@ -16,4 +16,10 @@ def statement_generator(text, decoration):
     return ""
     
 # Main Routine goes here
-statement_generator("look - stars", "*")
+
+# Heading
+statement_generator("Bit Calcultor for Integers, Text & Images", "-")
+
+# Display instructions if user has not used the program before
+
+# Ask the user for the file type
